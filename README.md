@@ -1,8 +1,8 @@
 <h1 align="center">♟️ Welcome to My GitHub Kingdom! ♟️</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sri699&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/Sri699?style=for-the-badge&label=⭐ GitHub Stars&color=gold" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=sriram2915&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/sriram2915?style=for-the-badge&label=⭐ GitHub Stars&color=gold" alt="GitHub Stars"/>
 </p>
 
 ## ♞ Mastermind on the Board
