@@ -16,8 +16,8 @@ A **full-stack developer** and **problem solver**, I excel in leadership, inspir
 
 ♔ **King (Core Languages):** ☕ Java, 🐍 Python, 🛠️ C  
 ♕ **Queen (Frontend Powerhouse):** 🌐 HTML, 🎨 CSS, 🚀 JavaScript, ⚛️ React, ⚡ Next.js  
-♖ **Rook (Backend Stronghold):** 🏗️ PHP, 🌿 Spring Boot, ♖ Next.js 🏴‍☠️  
-♗ **Bishop (Databases):** 🐬 MySQL, 🍃 MongoDB  
+♖ **Rook (Backend Stronghold):** 🏗️ PHP, ♖ Next.js 🏴‍☠️  
+♗ **Bishop (Databases):** 🐬 MySQL 
 
 ---
 
