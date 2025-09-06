@@ -22,7 +22,7 @@ A **full-stack developer** and **problem solver**, I excel in leadership, inspir
 ---
 
 ## ♙ Pieces in Play
-- **LeetCode:** 480+ problems solved ♟️
+- **LeetCode:** 550+ problems solved ♟️
 - **SkillRack:** 750+ problems solved ♞
 
 ---
